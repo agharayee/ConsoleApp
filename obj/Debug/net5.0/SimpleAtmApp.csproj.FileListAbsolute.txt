@@ -1,0 +1,16 @@
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.csprojAssemblyReference.cache
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.AssemblyInfoInputs.cache
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.AssemblyInfo.cs
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.csproj.CoreCompileInputs.cache
+C:\Users\wepr\Simple\src\SimpleAtmApp\bin\Debug\net5.0\SimpleAtmApp.exe
+C:\Users\wepr\Simple\src\SimpleAtmApp\bin\Debug\net5.0\SimpleAtmApp.deps.json
+C:\Users\wepr\Simple\src\SimpleAtmApp\bin\Debug\net5.0\SimpleAtmApp.runtimeconfig.json
+C:\Users\wepr\Simple\src\SimpleAtmApp\bin\Debug\net5.0\SimpleAtmApp.runtimeconfig.dev.json
+C:\Users\wepr\Simple\src\SimpleAtmApp\bin\Debug\net5.0\SimpleAtmApp.dll
+C:\Users\wepr\Simple\src\SimpleAtmApp\bin\Debug\net5.0\ref\SimpleAtmApp.dll
+C:\Users\wepr\Simple\src\SimpleAtmApp\bin\Debug\net5.0\SimpleAtmApp.pdb
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.dll
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\ref\SimpleAtmApp.dll
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.pdb
+C:\Users\wepr\Simple\src\SimpleAtmApp\obj\Debug\net5.0\SimpleAtmApp.genruntimeconfig.cache
